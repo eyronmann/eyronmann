@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aron 👋
 
-<!--
-**eyronmann/eyronmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a aspiring developer based in the Philippines.
 
-Here are some ideas to get you started:
+## 🛠 Tech I Work With
+- PHP and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 Projects
+- [RMSS](link) — short description
+- [Stopwatch in emu8086](link) — Assembly stopwatch project
+- [Portfolio](link) — Personal portfolio site
+
+## 📫 Reach Me
+- aroncadeliniamirano@gmail.com
